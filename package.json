@@ -1,0 +1,22 @@
+{
+  "name": "playwright-test",
+  "version": "1.0.0",
+  "description": "singlish to sinhala",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kavishka-Malshan/playwright-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kavishka-Malshan/playwright-test/issues"
+  },
+  "homepage": "https://github.com/Kavishka-Malshan/playwright-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  }
+}
