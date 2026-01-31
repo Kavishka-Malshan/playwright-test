@@ -1,5 +1,5 @@
 # playwright-test
-singlish to sinhala /n
-01-npm install /n
-02-npx playwright test /n
+singlish to sinhala - 
+01-npm install =>
+02-npx playwright test => 
 03-npx playwright show-report 
